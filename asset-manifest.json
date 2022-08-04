@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personal/static/css/main.5c1ae1a8.css",
+    "main.js": "/personal/static/js/main.80dbc288.js",
+    "static/js/787.41a206eb.chunk.js": "/personal/static/js/787.41a206eb.chunk.js",
+    "static/media/donut.jpg": "/personal/static/media/donut.cbc3bf28e6d84b9573f9.jpg",
+    "static/media/fluid.jpg": "/personal/static/media/fluid.24e6daa074c42b916d4e.jpg",
+    "static/media/cybertruck.jpg": "/personal/static/media/cybertruck.a757d3b4698130679f38.jpg",
+    "static/media/thumbnail-contact.jpg": "/personal/static/media/thumbnail-contact.8e6eabea0b660fa128e1.jpg",
+    "static/media/android.jpg": "/personal/static/media/android.e1c82fe1efca5f4ab8a3.jpg",
+    "static/media/thumbnail-home.jpg": "/personal/static/media/thumbnail-home.a10b865e9809b6785809.jpg",
+    "static/media/Poppins-Regular.ttf": "/personal/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/maskot.png": "/personal/static/media/maskot.920a9f4759e54dce49a2.png",
+    "index.html": "/personal/index.html",
+    "main.5c1ae1a8.css.map": "/personal/static/css/main.5c1ae1a8.css.map",
+    "main.80dbc288.js.map": "/personal/static/js/main.80dbc288.js.map",
+    "787.41a206eb.chunk.js.map": "/personal/static/js/787.41a206eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c1ae1a8.css",
+    "static/js/main.80dbc288.js"
+  ]
+}
